@@ -1,0 +1,24 @@
+# IDE folder
+/.idea
+
+# Microsoft office Lockfiles
+~$*
+*.tmp
+
+# Test files
+test.*
+*.test.*
+/test
+
+# Output of compiling
+/out
+/build
+/target
+
+# Dealing with BlueJ
+*.bluej
+*.out
+*.ctxt
+
+# Dealing with Mac users
+.DS_Store
