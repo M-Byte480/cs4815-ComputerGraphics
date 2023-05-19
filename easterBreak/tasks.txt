@@ -1,0 +1,10 @@
+Done:
+X move img when center clicked
+
+Current:
+left click to draw line
+
+To do:
+right click to change colour
+right click to change penSize
+keyboard functions
